@@ -1,0 +1,11 @@
+{
+  "name": "Angular Tour of Heroes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/stjahyadi/angular-heroes.git",
+  "author": "Sean Young Tjahyadi <asd@asd.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@angular/cli": "^15.1.5"
+  }
+}
